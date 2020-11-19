@@ -1,0 +1,25 @@
+{
+  "name": "systempharm",
+  "version": "1.0.0",
+  "description": "sistemas para farmácia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreFSilva/systemPharm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreFSilva/systemPharm/issues"
+  },
+  "homepage": "https://github.com/andreFSilva/systemPharm#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha3",
+    "bootstrap-icons": "^1.1.0",
+    "popper.js": "^1.16.1"
+  }
+}
